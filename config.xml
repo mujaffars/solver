@@ -2,9 +2,9 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.mujaffars.createwordfrenzzy"
         version   = "1.0">
-    <name>Word frenzy CR</name>
+    <name>Solver</name>
     
-    <description>Word frenzy CR</description>
+    <description>Solver</description>
     <content src="index.html" />
     <access origin="*" />
 
